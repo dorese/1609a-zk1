@@ -1,0 +1,26 @@
+{
+  "name": "1609a-zk1",
+  "version": "1.0.0",
+  "description": "git   study",
+  "main": "gitfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorese/1609a-zk1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorese/1609a-zk1/issues"
+  },
+  "homepage": "https://github.com/dorese/1609a-zk1#readme",
+  "devDependencies": {
+    "clean-css": "^4.2.1",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
